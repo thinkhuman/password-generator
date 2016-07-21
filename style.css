@@ -1,0 +1,58 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+	margin-bottom: 5px;
+	color: ;
+}
+
+p {
+	font-size: 1em;
+	color: #999;
+}
+
+input[type=text], select {
+    width: 100px;
+    padding: 12px 20px;
+    font-size: 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 180px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 15px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+
+.password {
+	min-width: 150px;
+	height: 32px;
+	font-size: 18px;
+	padding: 5px 5px;
+	margin: 0;
+    display: inline-block;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.password-label {
+	color: #4CAF50 ;
+}
+
+.instructions {
+	color: tomato;
+}
